@@ -51,7 +51,12 @@ When running the layout, your graph might go out of canvas. Don't worry.
 
 You can stop the run, and choose "Contraction" and run that, and it will zoom out. 
 
-The same applies if your visualization is too small. Click "Expansion" and it will zoom in, 
+The same applies if your visualization is too small. Click "Expansion" and it will zoom in
+
+
+## Tips
+
+Experiment. Experiment. Experiment. The more data you have the more complex your visuazliation might look. Use the overview to detect important information (and make screenshots of it)
 
 
 
